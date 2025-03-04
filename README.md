@@ -5,7 +5,7 @@
 
 ## Overview
 
-**Taco Truck App** is an interactive food application where users can choose between chicken, beef, or fish tacos to view their ingredients and preparation details. It provides a simple and engaging way to learn about different taco recipes.
+The **Secrets Sharing App** is a simple yet engaging project that fetches a random "secret" from an external API and presents it dynamically to the user. The app is built using Node.js, Express.js, and EJS to handle the frontend rendering. Each time the user refreshes the page, a new secret is displayed. This project is perfect for demonstrating API data fetching, server-side rendering with EJS, and handling asynchronous requests using Axios.
 
 ## Preview
 
